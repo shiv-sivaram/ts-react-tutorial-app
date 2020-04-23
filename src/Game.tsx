@@ -54,7 +54,6 @@ class Game extends React.Component<GameProps, GameState> {
     } else {
         squares[i] = this.state.xIsNext ? 'X' : 'O'
         const newHistory = history.concat({squares: squares})
-        console.log(newHistory)
         this.setState({
             history: newHistory,
             xIsNext: !this.state.xIsNext,
