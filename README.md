@@ -1,5 +1,5 @@
 # React - Typescript tutorial App
-Created this project to learn React and Typescript. It follows the [React Tutorial] (https://reactjs.org/tutorial/tutorial.html)
+Created this project to learn React and Typescript. It follows the [React Tutorial](https://reactjs.org/tutorial/tutorial.html)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 `npx create-react-app ts-app --template typescript`
